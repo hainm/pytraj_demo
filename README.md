@@ -1,4 +1,3 @@
 # pytraj_demo
-having html or ipynb files.
 
-View the notebooks here: [http://nbviewer.ipython.org/github/hainm/pytraj_demo/tree/master/]
+[View the notebooks here - nbviewer] (http://nbviewer.ipython.org/github/hainm/pytraj_demo/tree/master/)
